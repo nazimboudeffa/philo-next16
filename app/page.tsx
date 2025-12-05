@@ -6,7 +6,7 @@ export default function HomePage() {
 		<main className="min-h-screen flex flex-col items-center justify-start bg-linear-to-b from-blue-50 to-zinc-100 dark:from-zinc-900 dark:to-zinc-800">
 			{/* Hero Section */}
 			<section className="w-full py-16 px-4 flex flex-col items-center text-center">
-				<h1 className="text-4xl md:text-6xl font-extrabold text-blue-700 dark:text-blue-300 mb-4 drop-shadow-lg">PhiloNext</h1>
+				<h1 className="text-4xl md:text-6xl font-extrabold text-blue-700 dark:text-blue-300 mb-4 drop-shadow-lg">Ma Philosophie</h1>
 				<p className="text-lg md:text-2xl text-zinc-700 dark:text-zinc-200 max-w-2xl mb-6">
 					Explorez la philosophie à travers des notions, des textes, des auteurs, des références et des citations soigneusement sélectionnés. Ce site est conçu pour rendre la philosophie accessible, vivante et inspirante pour tous.
 				</p>
