@@ -1,0 +1,331 @@
+[
+  {
+    "auteur": "Socrate",
+    "dates": "-470 / -399",
+    "pays": "Grèce",
+    "courants": ["Maïeutique", "Dialectique"],
+    "periode": "Antiquité"
+  },
+  {
+    "auteur": "Platon",
+    "dates": "-427 / -347",
+    "pays": "Grèce",
+    "courants": ["Idéalisme", "Rationalisme"],
+    "periode": "Antiquité"
+  },
+  {
+    "auteur": "Aristote",
+    "dates": "-384 / -322",
+    "pays": "Grèce",
+    "courants": ["Réalisme", "Empirisme", "Eudémonisme"],
+    "periode": "Antiquité"
+  },
+  {
+    "auteur": "Épicure",
+    "dates": "-341 / -270",
+    "pays": "Grèce",
+    "courants": ["Épicurisme", "Hédonisme", "Matérialisme"],
+    "periode": "Antiquité"
+  },
+  {
+    "auteur": "Lucrèce",
+    "dates": "-98 / -54",
+    "pays": "Empire romain",
+    "courants": ["Épicurisme", "Matérialisme"],
+    "periode": "Antiquité"
+  },
+  {
+    "auteur": "Sénèque",
+    "dates": "-4 / 65",
+    "pays": "Empire romain",
+    "courants": ["Stoïcisme"],
+    "periode": "Antiquité"
+  },
+  {
+    "auteur": "Épictète",
+    "dates": "50 / 125",
+    "pays": "Empire romain",
+    "courants": ["Stoïcisme"],
+    "periode": "Antiquité"
+  },
+  {
+    "auteur": "Marc Aurèle",
+    "dates": "121 / 180",
+    "pays": "Empire romain",
+    "courants": ["Stoïcisme"],
+    "periode": "Antiquité"
+  },
+  {
+    "auteur": "Saint Augustin",
+    "dates": "354 / 430",
+    "pays": "Algérie (Empire romain)",
+    "courants": ["Christianisme"],
+    "periode": "Antiquité"
+  },
+  {
+    "auteur": "Averroès",
+    "dates": "1126 / 1198",
+    "pays": "Espagne (monde arabe)",
+    "courants": ["Aristotélisme"],
+    "periode": "Moyen Âge"
+  },
+  {
+    "auteur": "Thomas d'Aquin",
+    "dates": "1225 / 1274",
+    "pays": "Italie",
+    "courants": ["Aristotélisme", "Thomisme", "Scolastique"],
+    "periode": "Moyen Âge"
+  },
+  {
+    "auteur": "Machiavel",
+    "dates": "1469 / 1527",
+    "pays": "Italie",
+    "courants": [],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Montaigne",
+    "dates": "1533 / 1592",
+    "pays": "France",
+    "courants": ["Scepticisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Francis Bacon",
+    "dates": "1561 / 1626",
+    "pays": "Angleterre",
+    "courants": ["Empirisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Thomas Hobbes",
+    "dates": "1588 / 1679",
+    "pays": "Angleterre",
+    "courants": ["Matérialisme", "Empirisme", "Absolutisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "René Descartes",
+    "dates": "1596 / 1650",
+    "pays": "France",
+    "courants": ["Idéalisme", "Rationalisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Blaise Pascal",
+    "dates": "1623 / 1662",
+    "pays": "France",
+    "courants": ["Jansénisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Baruch Spinoza",
+    "dates": "1632 / 1677",
+    "pays": "Hollande",
+    "courants": ["Rationalisme", "Eudémonisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "John Locke",
+    "dates": "1632 / 1704",
+    "pays": "Angleterre",
+    "courants": ["Empirisme", "Libéralisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Gottfried Wilhelm Leibniz",
+    "dates": "1646 / 1716",
+    "pays": "Allemagne",
+    "courants": ["Idéalisme", "Rationalisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "George Berkeley",
+    "dates": "1685 / 1753",
+    "pays": "Irlande",
+    "courants": ["Immatérialisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Montesquieu",
+    "dates": "1689 / 1755",
+    "pays": "France",
+    "courants": ["Libéralisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Voltaire",
+    "dates": "1694 / 1778",
+    "pays": "France",
+    "courants": ["Libéralisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "David Hume",
+    "dates": "1711 / 1776",
+    "pays": "Écosse",
+    "courants": ["Empirisme", "Scepticisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Jean-Jacques Rousseau",
+    "dates": "1712 / 1778",
+    "pays": "Suisse – France",
+    "courants": [],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Denis Diderot",
+    "dates": "1713 / 1784",
+    "pays": "France",
+    "courants": ["Matérialisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Emmanuel Kant",
+    "dates": "1724 / 1804",
+    "pays": "Allemagne",
+    "courants": ["Idéalisme transcendantal", "Criticisme"],
+    "periode": "Période moderne"
+  },
+  {
+    "auteur": "Georg Wilhelm Friedrich Hegel",
+    "dates": "1770 / 1831",
+    "pays": "Allemagne",
+    "courants": ["Idéalisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Arthur Schopenhauer",
+    "dates": "1788 / 1860",
+    "pays": "Allemagne",
+    "courants": ["Kantisme", "Pessimisme", "Idéalisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Alexis de Tocqueville",
+    "dates": "1805 / 1859",
+    "pays": "France",
+    "courants": ["Libéralisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "John Stuart Mill",
+    "dates": "1806 / 1873",
+    "pays": "Angleterre",
+    "courants": ["Utilitarisme", "Libéralisme", "Empirisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Søren Kierkegaard",
+    "dates": "1813 / 1855",
+    "pays": "Danemark",
+    "courants": ["Existentialisme chrétien"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Karl Marx",
+    "dates": "1818 / 1883",
+    "pays": "Allemagne",
+    "courants": ["Matérialisme historique", "Communisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "William James",
+    "dates": "1842 / 1910",
+    "pays": "États-Unis",
+    "courants": ["Empirisme", "Pragmatisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Friedrich Nietzsche",
+    "dates": "1844 / 1900",
+    "pays": "Allemagne",
+    "courants": [],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Sigmund Freud",
+    "dates": "1856 / 1939",
+    "pays": "Autriche",
+    "courants": ["Psychanalyse"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Émile Durkheim",
+    "dates": "1858 / 1917",
+    "pays": "France",
+    "courants": ["Sociologie"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Edmund Husserl",
+    "dates": "1859 / 1938",
+    "pays": "Allemagne",
+    "courants": ["Phénoménologie", "Idéalisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Henri Bergson",
+    "dates": "1859 / 1941",
+    "pays": "France",
+    "courants": ["Intuitionnisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Alain",
+    "dates": "1868 / 1951",
+    "pays": "France",
+    "courants": ["Rationalisme", "Cartésianisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Bertrand Russell",
+    "dates": "1872 / 1970",
+    "pays": "Pays de Galles",
+    "courants": ["Philosophie analytique", "Positivisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Gaston Bachelard",
+    "dates": "1884 / 1962",
+    "pays": "France",
+    "courants": ["Rationalisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Martin Heidegger",
+    "dates": "1889 / 1976",
+    "pays": "Allemagne",
+    "courants": ["Phénoménologie", "Existentialisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Karl Popper",
+    "dates": "1902 / 1994",
+    "pays": "Angleterre",
+    "courants": ["Philosophie analytique", "Libéralisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Jean-Paul Sartre",
+    "dates": "1905 / 1980",
+    "pays": "France",
+    "courants": ["Phénoménologie", "Existentialisme"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Hannah Arendt",
+    "dates": "1906 / 1975",
+    "pays": "Allemagne puis États-Unis",
+    "courants": ["Phénoménologie"],
+    "periode": "Période contemporaine"
+  },
+  {
+    "auteur": "Emmanuel Lévinas",
+    "dates": "1906 / 1995",
+    "pays": "France",
+    "courants": ["Phénoménologie"],
+    "periode": "Période contemporaine"
+  }
+]

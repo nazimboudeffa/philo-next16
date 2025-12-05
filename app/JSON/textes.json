@@ -1,0 +1,1914 @@
+[
+  {
+    "auteur": "Alain",
+    "slug": "alain",
+    "themes": [
+      {
+        "titre": "La chute",
+        "notions": ["Le travail"]
+      },
+      {
+        "titre": "Commémorer",
+        "notions": ["L'existence et le temps", "L'histoire", "La société"]
+      },
+      {
+        "titre": "En quoi l'artiste diffère de l'artisan",
+        "notions": ["L'art", "Le travail et la technique"]
+      },
+      {
+        "titre": "L'impossible solitude",
+        "notions": ["Le sujet", "Autrui", "La culture", "Le langage"]
+      },
+      {
+        "titre": "La société née de la peur",
+        "notions": ["La politique", "La société et les échanges", "L'Etat", "Le droit et la justice"]
+      },
+      {
+        "titre": "Le freudisme",
+        "notions": ["La conscience et l'inconscient", "La morale", "La liberté"]
+      },
+      {
+        "titre": "Le progrès",
+        "notions": ["L'histoire"]
+      }
+    ]
+  },
+  {
+    "auteur": "Arasse (Daniel)",
+    "slug": "arasse-daniel",
+    "themes": [
+      {
+        "titre": "Le verrou de Fragonard",
+        "notions": ["L'art", "L'interprétation", "Le désir"]
+      }
+    ]
+  },
+  {
+    "auteur": "Arendt",
+    "slug": "arendt",
+    "themes": [
+      {
+        "titre": "Histoire, faits et interprétations",
+        "notions": ["L'histoire", "La vérité", "L'interprétation"]
+      },
+      {
+        "titre": "Le travail chez les grecs",
+        "notions": ["Le travail", "La liberté"]
+      },
+      {
+        "titre": "Liberté politique",
+        "notions": ["La liberté", "La politique", "La conscience"]
+      },
+      {
+        "titre": "Parole et humanité",
+        "notions": ["La culture", "Le langage", "La société et les échanges", "Autrui"]
+      },
+      {
+        "titre": "Travail et consommation",
+        "notions": ["Le travail", "La société et les échanges"]
+      },
+      {
+        "titre": "Une société de travailleurs sans travail",
+        "notions": ["La culture", "Le travail et la technique", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Aristote",
+    "slug": "aristote",
+    "themes": [
+      {
+        "titre": "Amitié et connaissance de soi",
+        "notions": ["Le sujet", "Autrui", "La conscience"]
+      },
+      {
+        "titre": "Conditions d'une bonne démonstration",
+        "notions": ["La démonstration", "La vérité"]
+      },
+      {
+        "titre": "La main et l'intelligence",
+        "notions": ["La culture", "La technique", "La matière et l'esprit", "Le vivant"]
+      },
+      {
+        "titre": "Le bonheur est le Souverain Bien",
+        "notions": ["La morale", "Le bonheur"]
+      },
+      {
+        "titre": "Le syllogisme",
+        "notions": ["La raison et le réel", "La démonstration", "La vérité"]
+      },
+      {
+        "titre": "Plaisir et vertu",
+        "notions": ["Le désir", "Le bonheur", "La morale"]
+      },
+      {
+        "titre": "Science et démonstration",
+        "notions": ["La démonstration", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Augustin",
+    "slug": "augustin",
+    "themes": [
+      {
+        "titre": "Qu'est-ce que le temps ?",
+        "notions": ["L'existence et le temps"]
+      }
+    ]
+  },
+  {
+    "auteur": "Averroès",
+    "slug": "averroes",
+    "themes": [
+      {
+        "titre": "Vérité révélée et philosophie",
+        "notions": ["La religion", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Bachelard",
+    "slug": "bachelard",
+    "themes": [
+      {
+        "titre": "L'observation scientifique",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience"]
+      },
+      {
+        "titre": "L'obstacle épistémologique",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience"]
+      },
+      {
+        "titre": "L'opinion et la science",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience"]
+      }
+    ]
+  },
+  {
+    "auteur": "Bacon (Francis)",
+    "slug": "bacon-francis",
+    "themes": [
+      {
+        "titre": "L'expérience cruciale",
+        "notions": ["La raison et le réel", "Théorie et expérience", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Bacon (Roger)",
+    "slug": "bacon-roger",
+    "themes": [
+      {
+        "titre": "Les causes générales de l'erreur humaine",
+        "notions": ["La raison et le réel", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Bakounine",
+    "slug": "bakounine",
+    "themes": [
+      {
+        "titre": "Etat veut dire domination",
+        "notions": ["La politique", "L'Etat", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Bataille",
+    "slug": "bataille",
+    "themes": [
+      {
+        "titre": "L'homme nie la nature",
+        "notions": ["La culture", "La liberté", "Le travail", "La technique", "La conscience", "La morale", "Le désir"]
+      }
+    ]
+  },
+  {
+    "auteur": "Baudrillard",
+    "slug": "baudrillard",
+    "themes": [
+      {
+        "titre": "Désir et consommation",
+        "notions": ["Le désir", "La société et les échanges"]
+      },
+      {
+        "titre": "Le loisir aliéné",
+        "notions": ["Le travail", "La société et les échanges", "La liberté", "Le temps"]
+      }
+    ]
+  },
+  {
+    "auteur": "Bentham (Jeremy)",
+    "slug": "bentham-jeremy",
+    "themes": [
+      {
+        "titre": "Les animaux ont-ils des droits ?",
+        "notions": ["La morale", "La justice et le droit", "Le vivant"]
+      }
+    ]
+  },
+  {
+    "auteur": "Benveniste (Émile)",
+    "slug": "benveniste-emile",
+    "themes": [
+      {
+        "titre": "Est ego qui dit \"ego\"",
+        "notions": ["Le sujet", "La conscience", "Autrui", "Le langage"]
+      },
+      {
+        "titre": "Les abeilles ont-elles un langage ?",
+        "notions": ["Le langage"]
+      }
+    ]
+  },
+  {
+    "auteur": "Bergson",
+    "slug": "bergson",
+    "themes": [
+      {
+        "titre": "L'Homo faber",
+        "notions": ["La culture", "La technique"]
+      },
+      {
+        "titre": "L'artiste et le philosophe",
+        "notions": ["L'art", "La vérité", "Le langage", "La perception"]
+      },
+      {
+        "titre": "L'objet de l'art",
+        "notions": ["L'art", "Le langage", "La perception", "La conscience"]
+      },
+      {
+        "titre": "La religion défense contre l'idée de la mort",
+        "notions": ["La culture", "La religion", "L'existence et le temps"]
+      },
+      {
+        "titre": "Langage et société",
+        "notions": ["Le langage", "La société et les échanges"]
+      },
+      {
+        "titre": "Le temps réel échappe aux mathématiques",
+        "notions": ["La conscience", "Le temps"]
+      },
+      {
+        "titre": "Le langage et l'ineffable",
+        "notions": ["Le langage", "L'art"]
+      },
+      {
+        "titre": "Les deux mémoires",
+        "notions": ["L'existence et le temps"]
+      },
+      {
+        "titre": "Qu'est-ce que la conscience ?",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "Le temps", "La matière et l'esprit"]
+      }
+    ]
+  },
+  {
+    "auteur": "Berkeley",
+    "slug": "berkeley",
+    "themes": [
+      {
+        "titre": "L'esprit seul est réel",
+        "notions": ["La raison et le réel", "La matière et l'esprit", "La perception"]
+      }
+    ]
+  },
+  {
+    "auteur": "Bernard (Claude)",
+    "slug": "bernard-claude",
+    "themes": [
+      {
+        "titre": "L'obstacle vitaliste",
+        "notions": ["La raison et le réel", "Théorie et expérience", "La matière et l'esprit", "Le vivant"]
+      },
+      {
+        "titre": "La vie, c'est la création",
+        "notions": ["Le vivant"]
+      },
+      {
+        "titre": "Le savant, observateur et expérimentateur",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience", "La perception", "L'interprétation"]
+      },
+      {
+        "titre": "Science du vivant et déterminisme",
+        "notions": ["La raison et le réel", "Le vivant", "La vérité", "Théorie et expérience"]
+      }
+    ]
+  },
+  {
+    "auteur": "Blanché (Robert)",
+    "slug": "blanche-robert",
+    "themes": [
+      {
+        "titre": "Euclide et l'idéal d'une théorie déductive",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration"]
+      },
+      {
+        "titre": "Les géométries non-euclidiennes et la vérité mathématique",
+        "notions": ["La vérité", "La démonstration"]
+      },
+      {
+        "titre": "Vérité et validité",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration"]
+      }
+    ]
+  },
+  {
+    "auteur": "Bougnoux (Daniel)",
+    "slug": "bougnoux-daniel",
+    "themes": [
+      {
+        "titre": "Science et société",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience", "Le langage"]
+      }
+    ]
+  },
+  {
+    "auteur": "Bourdieu (Pierre)",
+    "slug": "bourdieu-pierre",
+    "themes": [
+      {
+        "titre": "Art et distinction",
+        "notions": ["L'art", "La société"]
+      },
+      {
+        "titre": "Le goût comme construction sociale",
+        "notions": ["La culture", "L'art", "La société", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Buber (Martin)",
+    "slug": "buber-martin",
+    "themes": [
+      {
+        "titre": "Solitude et vie dialogique",
+        "notions": ["Le sujet", "Autrui", "Le langage"]
+      }
+    ]
+  },
+  {
+    "auteur": "Changeux (Jean-Pierre)",
+    "slug": "changeux-jean-pierre",
+    "themes": [
+      {
+        "titre": "Le cerveau et la pensée",
+        "notions": ["La raison et le réel", "La matière et l'esprit", "Le vivant"]
+      }
+    ]
+  },
+  {
+    "auteur": "Chirpaz (François)",
+    "slug": "chirpaz-francois",
+    "themes": [
+      {
+        "titre": "Sortir de la violence et de la peur",
+        "notions": ["Le sujet", "Autrui", "La société", "Le désir"]
+      },
+      {
+        "titre": "Violence et rencontre d'autrui",
+        "notions": ["Le sujet", "Autrui", "La société", "Le désir"]
+      }
+    ]
+  },
+  {
+    "auteur": "Citron (Suzanne)",
+    "slug": "citron-suzanne",
+    "themes": [
+      {
+        "titre": "A propos de Clovis",
+        "notions": ["Histoire", "Société"]
+      },
+      {
+        "titre": "De quelle(s) histoire(s) de France parle-t-on ?",
+        "notions": ["Histoire", "Société"]
+      }
+    ]
+  },
+  {
+    "auteur": "Conche (Marcel)",
+    "slug": "conche-marcel",
+    "themes": [
+      {
+        "titre": "Dialogue et respect d'autrui",
+        "notions": ["Le langage", "La morale", "Autrui", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Constant (Benjamin)",
+    "slug": "constant-benjamin",
+    "themes": [
+      {
+        "titre": "Contre Rousseau",
+        "notions": ["La politique", "L'Etat", "La liberté"]
+      },
+      {
+        "titre": "La liberté des anciens",
+        "notions": ["La politique", "La liberté", "L'Etat"]
+      },
+      {
+        "titre": "La liberté des modernes",
+        "notions": ["La liberté", "La politique", "L'Etat"]
+      },
+      {
+        "titre": "Que la souveraineté doit être limitée",
+        "notions": ["La politique", "L'Etat", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Cournot (Antoine-Augustin)",
+    "slug": "cournot-antoine-augustin",
+    "themes": [
+      {
+        "titre": "Une science n'est pas une collection de faits",
+        "notions": ["La raison et le réel", "Théorie et expérience", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Cyrulnik (Boris)",
+    "slug": "cyrulnik-boris",
+    "themes": [
+      {
+        "titre": "Pas de monde humain sans autrui",
+        "notions": ["Le sujet", "Autrui"]
+      }
+    ]
+  },
+  {
+    "auteur": "D'Alembert",
+    "slug": "dalembert",
+    "themes": [
+      {
+        "titre": "Arts mécaniques et arts libéraux",
+        "notions": ["La culture", "Le travail et la technique"]
+      }
+    ]
+  },
+  {
+    "auteur": "Dagognet (François)",
+    "slug": "dagognet-francois",
+    "themes": [
+      {
+        "titre": "Critique de l'idée de nature",
+        "notions": ["La culture", "La technique", "Le vivant"]
+      },
+      {
+        "titre": "Technique et liberté",
+        "notions": ["La culture", "Le travail et la technique", "La liberté", "Le vivant"]
+      }
+    ]
+  },
+  {
+    "auteur": "Danto (Arthur)",
+    "slug": "danto-arthur",
+    "themes": [
+      {
+        "titre": "Le monde de l'art",
+        "notions": ["L'art", "La perception", "L'interprétation", "Théorie et expérience"]
+      },
+      {
+        "titre": "Même et autre",
+        "notions": ["L'art", "La perception", "La matière et l'esprit", "L'interprétation"]
+      }
+    ]
+  },
+  {
+    "auteur": "De Saussure",
+    "slug": "de-saussure",
+    "themes": [
+      {
+        "titre": "Le signe linguistique",
+        "notions": ["Le langage", "La raison et le réel"]
+      }
+    ]
+  },
+  {
+    "auteur": "Descartes",
+    "slug": "descartes",
+    "themes": [
+      {
+        "titre": "Dangers du doute",
+        "notions": ["La vérité"]
+      },
+      {
+        "titre": "L'homme, maître de la nature ?",
+        "notions": ["La raison et le réel", "La technique", "La culture"]
+      },
+      {
+        "titre": "Le bon sens",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration"]
+      },
+      {
+        "titre": "Le corps comme machine",
+        "notions": ["La raison et le réel", "La vérité", "La matière et l'esprit", "Le vivant"]
+      },
+      {
+        "titre": "Le morceau de cire",
+        "notions": ["La raison et le réel", "La vérité", "La matière et l'esprit", "La perception"]
+      },
+      {
+        "titre": "Les animaux parlent-ils ?",
+        "notions": ["La culture", "Le langage", "La raison et le réel"]
+      },
+      {
+        "titre": "Les mathématiques comme modèle",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration"]
+      },
+      {
+        "titre": "Les règles de la méthode",
+        "notions": ["La raison et le réel", "La vérité"]
+      },
+      {
+        "titre": "Pourquoi il faut faire table rase du passé",
+        "notions": ["Le sujet", "La conscience", "La raison et le réel", "La vérité", "La liberté"]
+      },
+      {
+        "titre": "Vérité et bonheur",
+        "notions": ["La conscience", "Le bonheur", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Dilthey",
+    "slug": "dilthey",
+    "themes": [
+      {
+        "titre": "Expliquer et comprendre",
+        "notions": ["La raison et le réel", "La vérité", "L'interprétation", "La société", "Le sujet"]
+      }
+    ]
+  },
+  {
+    "auteur": "Duhem (Pierre)",
+    "slug": "duhem-pierre",
+    "themes": [
+      {
+        "titre": "Critique de la notion d'expérience cruciale",
+        "notions": ["La raison et le réel", "Théorie et expérience", "La vérité"]
+      },
+      {
+        "titre": "Expérience, observation et interprétation",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience", "L'interprétation"]
+      }
+    ]
+  },
+  {
+    "auteur": "During (Elie)",
+    "slug": "during-elie",
+    "themes": [
+      {
+        "titre": "Philosophie et science-fiction",
+        "notions": ["La raison et le réel", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Durkheim",
+    "slug": "durkheim",
+    "themes": [
+      {
+        "titre": "La morale et l'individu",
+        "notions": ["La morale", "Le sujet", "La liberté", "Le devoir"]
+      },
+      {
+        "titre": "Le sacré et le profane",
+        "notions": ["La culture", "La religion", "La société"]
+      },
+      {
+        "titre": "Pas de religion sans Eglise",
+        "notions": ["La culture", "La religion", "La société et les échanges"]
+      }
+    ]
+  },
+  {
+    "auteur": "Eco (Umberto)",
+    "slug": "eco-umberto",
+    "themes": [
+      {
+        "titre": "L'oeuvre ouverte",
+        "notions": ["L'art", "L'interprétation", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Einstein",
+    "slug": "einstein",
+    "themes": [
+      {
+        "titre": "Le réalisme",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience", "La matière et l'esprit"]
+      },
+      {
+        "titre": "Les concepts scientifiques",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience"]
+      }
+    ]
+  },
+  {
+    "auteur": "Epictète",
+    "slug": "epictete",
+    "themes": [
+      {
+        "titre": "Amour et esclavage",
+        "notions": ["Le désir", "Le bonheur", "La liberté"]
+      },
+      {
+        "titre": "Ce qu'est ce qui est désiré",
+        "notions": ["Le désir"]
+      },
+      {
+        "titre": "Ce qui dépend de nous, ce qui n'en dépend pas",
+        "notions": ["L'existence et le temps", "Le désir", "La liberté", "Le bonheur", "Autrui"]
+      },
+      {
+        "titre": "Ce sont nos jugements qui nous troublent",
+        "notions": ["Le bonheur"]
+      },
+      {
+        "titre": "Il en est de la vie comme d'une navigation",
+        "notions": ["L'existence et le temps"]
+      },
+      {
+        "titre": "L'esclave n'est pas celui que l'on croit...",
+        "notions": ["La liberté", "Le désir", "Autrui"]
+      },
+      {
+        "titre": "La philosophie et l'opinion",
+        "notions": ["La vérité"]
+      },
+      {
+        "titre": "Liberté et esclavage",
+        "notions": ["La liberté", "Le désir"]
+      }
+    ]
+  },
+  {
+    "auteur": "Epicure",
+    "slug": "epicure",
+    "themes": [
+      {
+        "titre": "1. Nécessité de la philosophie",
+        "notions": ["L'existence et le temps", "La conscience", "Le bonheur"]
+      },
+      {
+        "titre": "2. La crainte des dieux",
+        "notions": ["L'existence et le temps", "La religion", "Le bonheur"]
+      },
+      {
+        "titre": "3. La mort n'est rien pour nous",
+        "notions": ["L'existence et le temps", "Le bonheur", "Le désir"]
+      },
+      {
+        "titre": "4. La classification des désirs",
+        "notions": ["L'existence et le temps", "Le désir", "Le bonheur"]
+      },
+      {
+        "titre": "5. Le plaisir est le commencement et la fin de la vie heureuse",
+        "notions": ["L'existence et le temps", "Le bonheur", "Le désir"]
+      },
+      {
+        "titre": "6. Un idéal de simplicité",
+        "notions": ["L'existence et le temps", "Le bonheur", "Le désir"]
+      }
+    ]
+  },
+  {
+    "auteur": "Érasme",
+    "slug": "erasme",
+    "themes": [
+      {
+        "titre": "L'éducation fait l'homme",
+        "notions": ["Le sujet", "Autrui", "La culture"]
+      }
+    ]
+  },
+  {
+    "auteur": "Ernaux (Annie)",
+    "slug": "ernaux-annie",
+    "themes": [
+      {
+        "titre": "La dictature de la consommation",
+        "notions": ["Le sujet", "Le désir", "La société et les échanges", "La liberté", "Le bonheur"]
+      },
+      {
+        "titre": "La dictature de la consommation II",
+        "notions": ["Le sujet", "Le désir", "La société et les échanges", "Le bonheur"]
+      }
+    ]
+  },
+  {
+    "auteur": "Febvre (Lucien)",
+    "slug": "febvre-lucien",
+    "themes": [
+      {
+        "titre": "Toute l'histoire est choix",
+        "notions": ["L'histoire", "La raison et le réel", "La vérité", "Théorie et expérience", "L'interprétation"]
+      }
+    ]
+  },
+  {
+    "auteur": "Ferry (Luc)",
+    "slug": "ferry-luc",
+    "themes": [
+      {
+        "titre": "Pourquoi protéger la nature ?",
+        "notions": ["La culture", "La technique", "La morale"]
+      }
+    ]
+  },
+  {
+    "auteur": "Fontenelle",
+    "slug": "fontenelle",
+    "themes": [
+      {
+        "titre": "La dent d'or",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience"]
+      }
+    ]
+  },
+  {
+    "auteur": "Freud",
+    "slug": "freud",
+    "themes": [
+      {
+        "titre": "Besoin de remèdes pour supporter la vie",
+        "notions": ["L'existence et le temps", "Le bonheur", "La vérité", "L'art"]
+      },
+      {
+        "titre": "L'homme peut-il se passer de religion ?",
+        "notions": ["La religion", "La vérité"]
+      },
+      {
+        "titre": "L'hypothèse de l'inconscient",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "La vérité", "Théorie et expérience", "L'interprétation"]
+      },
+      {
+        "titre": "L'inconscient comme blessure narcissique",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "La vérité"]
+      },
+      {
+        "titre": "L'interprétation des rêves",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "Le désir", "L'interprétation"]
+      },
+      {
+        "titre": "La culture nous défend contre la nature",
+        "notions": ["La culture", "Le désir", "La morale"]
+      },
+      {
+        "titre": "La question de la finalité de la vie",
+        "notions": ["L'existence et le temps", "La religion"]
+      },
+      {
+        "titre": "La religion comme illusion",
+        "notions": ["La religion", "Le désir"]
+      },
+      {
+        "titre": "Le but de la psychanalyse",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "Le désir", "La liberté"]
+      },
+      {
+        "titre": "Le refoulement : un exemple et une image.",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "Le désir", "La morale"]
+      },
+      {
+        "titre": "Les origines de la psychanalyse : études sur l'hystérie.",
+        "notions": ["La conscience et l'inconscient", "Le langage", "L'existence et le temps", "L'interprétation"]
+      },
+      {
+        "titre": "Origine de la conscience morale",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "La morale", "Le devoir"]
+      },
+      {
+        "titre": "Refoulement et résistance",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "Le désir", "La morale"]
+      },
+      {
+        "titre": "Symptômes et principe du déterminisme psychique",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "L'interprétation", "La vérité", "Le langage"]
+      },
+      {
+        "titre": "Travail et sublimation des pulsions",
+        "notions": ["La culture", "Le travail", "Le bonheur", "Le désir", "La société"]
+      }
+    ]
+  },
+  {
+    "auteur": "Garcia (Tristan)",
+    "slug": "garcia-tristan",
+    "themes": [
+      {
+        "titre": "Possible et réel",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration", "Théorie et expérience"]
+      }
+    ]
+  },
+  {
+    "auteur": "Girard (René)",
+    "slug": "girard-rene",
+    "themes": [
+      {
+        "titre": "Désir mimétique et rivalité",
+        "notions": ["Le sujet", "Autrui", "Le désir", "La société", "Les échanges"]
+      },
+      {
+        "titre": "La fonction du sacrifice",
+        "notions": ["La religion", "La société"]
+      },
+      {
+        "titre": "Le religieux canalise la violence",
+        "notions": ["La religion", "Le désir", "La société"]
+      },
+      {
+        "titre": "Religion et violence",
+        "notions": ["La culture", "La religion", "La société", "La morale"]
+      }
+    ]
+  },
+  {
+    "auteur": "Goodman (Nelson)",
+    "slug": "goodman-nelson",
+    "themes": [
+      {
+        "titre": "Percevoir c'est interpréter",
+        "notions": ["La raison et le réel", "La perception", "L'interprétation", "L'art"]
+      }
+    ]
+  },
+  {
+    "auteur": "Gorz (André)",
+    "slug": "gorz-andre",
+    "themes": [
+      {
+        "titre": "La notion moderne de \"travail\"",
+        "notions": ["Le travail", "Les échanges", "La société"]
+      }
+    ]
+  },
+  {
+    "auteur": "Gramsci",
+    "slug": "gramsci",
+    "themes": [
+      {
+        "titre": "Tous philosophes !",
+        "notions": ["Le sujet", "La conscience", "La vérité", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Hegel",
+    "slug": "hegel",
+    "themes": [
+      {
+        "titre": "Art et imitation",
+        "notions": ["L'art", "La vérité", "La technique"]
+      },
+      {
+        "titre": "L'art comme union du sensible et du spirituel",
+        "notions": ["L'art", "La perception", "La matière et l'esprit"]
+      },
+      {
+        "titre": "L'art et les apparences",
+        "notions": ["L'art", "La vérité", "La perception", "La matière et l'esprit"]
+      },
+      {
+        "titre": "L'art et les passions",
+        "notions": ["L'art", "Le désir", "Le sujet", "La liberté"]
+      },
+      {
+        "titre": "L'Etat réalise la liberté",
+        "notions": ["La liberté", "Le désir", "La politique", "Le droit et la justice", "Le devoir", "La morale"]
+      },
+      {
+        "titre": "L'homme est esprit",
+        "notions": ["Le sujet", "La conscience", "La liberté", "Le travail et la technique", "L'art"]
+      },
+      {
+        "titre": "Le beau dans l'art et dans la nature",
+        "notions": ["L'art"]
+      },
+      {
+        "titre": "Le langage et la pensée",
+        "notions": ["Le langage", "La vérité"]
+      },
+      {
+        "titre": "Le spectacle de l'histoire",
+        "notions": ["L'histoire", "Le bonheur"]
+      },
+      {
+        "titre": "Les grands hommes",
+        "notions": ["L'histoire", "Le désir", "La liberté"]
+      },
+      {
+        "titre": "Peut-on tirer des leçons de l'histoire ?",
+        "notions": ["L'histoire"]
+      }
+    ]
+  },
+  {
+    "auteur": "Heidegger",
+    "slug": "heidegger",
+    "themes": [
+      {
+        "titre": "L'être-au-monde du sujet",
+        "notions": ["Le sujet", "La conscience", "La liberté", "Autrui"]
+      },
+      {
+        "titre": "L'être-avec",
+        "notions": ["Le sujet", "La conscience", "Autrui"]
+      },
+      {
+        "titre": "La centrale électrique et le vieux pont de bois",
+        "notions": ["La technique", "La raison et le réel", "L'art"]
+      },
+      {
+        "titre": "La dictature du On",
+        "notions": ["Le sujet", "Autrui", "La liberté", "La société"]
+      }
+    ]
+  },
+  {
+    "auteur": "Hervieu-Léger (Danièle)",
+    "slug": "hervieu-leger-daniele",
+    "themes": [
+      {
+        "titre": "Religion et modernité",
+        "notions": ["La religion", "Le sujet", "La technique"]
+      }
+    ]
+  },
+  {
+    "auteur": "Hobbes",
+    "slug": "hobbes",
+    "themes": [
+      {
+        "titre": "Contre les délibérations en grandes assemblées - 1 -",
+        "notions": ["La politique", "L'État", "La société"]
+      },
+      {
+        "titre": "Contre les délibérations en grandes assemblées - 2 -",
+        "notions": ["La politique", "L'État", "Le langage", "La vérité"]
+      },
+      {
+        "titre": "Etat de nature et état civil",
+        "notions": ["La politique", "Le droit et la justice", "La société", "L'Etat", "La liberté", "Autrui", "Le désir"]
+      },
+      {
+        "titre": "La guerre de chacun contre chacun",
+        "notions": ["La culture", "Le travail et la technique", "La politique", "La société", "La justice et le droit", "L'Etat", "La liberté"]
+      },
+      {
+        "titre": "La souveraineté ne doit pas être partagée",
+        "notions": ["La politique", "L'Etat", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Hume",
+    "slug": "hume",
+    "themes": [
+      {
+        "titre": "La nature de l'homme appelle la culture",
+        "notions": ["Autrui", "La culture", "La technique", "Le travail", "La société et les échanges", "Le désir"]
+      },
+      {
+        "titre": "La raison et l'expérience",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration", "Théorie et expérience", "La religion"]
+      },
+      {
+        "titre": "La superstition et les prêtres",
+        "notions": ["La religion"]
+      },
+      {
+        "titre": "Le moi comme fiction",
+        "notions": ["Le sujet", "La conscience", "La perception"]
+      },
+      {
+        "titre": "Nécessaire vie en société pour l'homme",
+        "notions": ["Autrui", "La société et les échanges", "Le désir", "Le bonheur"]
+      },
+      {
+        "titre": "Vérités de raison / Vérités de fait",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration", "Théorie et expérience"]
+      }
+    ]
+  },
+  {
+    "auteur": "Jacob (François)",
+    "slug": "jacob-francois",
+    "themes": [
+      {
+        "titre": "Darwin et la question de la finalité dans la nature",
+        "notions": ["La matière et l'esprit", "Le vivant"]
+      },
+      {
+        "titre": "Peut-on définir la vie ?",
+        "notions": ["La matière et l'esprit", "Le vivant"]
+      }
+    ]
+  },
+  {
+    "auteur": "James (William)",
+    "slug": "james-william",
+    "themes": [
+      {
+        "titre": "Définition pragmatique de la vérité",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience"]
+      }
+    ]
+  },
+  {
+    "auteur": "Kahane (Ernest)",
+    "slug": "kahane-ernest",
+    "themes": [
+      {
+        "titre": "La vie n'existe pas !",
+        "notions": ["La raison et le réel", "La matière et l'esprit", "Le vivant"]
+      }
+    ]
+  },
+  {
+    "auteur": "Kant",
+    "slug": "kant",
+    "themes": [
+      {
+        "titre": "Démonstration mathématique et connaissance philosophique",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration", "Théorie et expérience"]
+      },
+      {
+        "titre": "Education et humanité",
+        "notions": ["La culture", "Autrui", "La société", "La liberté", "La morale"]
+      },
+      {
+        "titre": "Impératifs catégoriques et hypothétiques",
+        "notions": ["La morale", "Le devoir"]
+      },
+      {
+        "titre": "L'agréable, le bon et le beau",
+        "notions": ["L'art", "Le désir", "La perception"]
+      },
+      {
+        "titre": "L'éthique doit-elle s'adapter à la nature humaine ?",
+        "notions": ["La morale", "Le devoir"]
+      },
+      {
+        "titre": "L'insociable sociabilité de l'homme",
+        "notions": ["L'histoire", "La société", "Autrui"]
+      },
+      {
+        "titre": "L'universalité comme critère de la moralité",
+        "notions": ["La morale", "Le devoir"]
+      },
+      {
+        "titre": "La bonne volonté",
+        "notions": ["La morale", "Le devoir", "Le désir"]
+      },
+      {
+        "titre": "La logique comparée aux autres sciences",
+        "notions": ["La démonstration", "La vérité", "La raison et le réel"]
+      },
+      {
+        "titre": "La nature, le travail et la technique",
+        "notions": ["La culture", "L'histoire", "Le travail", "La technique", "La morale", "La liberté", "Le bonheur"]
+      },
+      {
+        "titre": "La personne",
+        "notions": ["Le sujet", "La morale", "Le devoir", "Autrui", "Les échanges"]
+      },
+      {
+        "titre": "La révolution mathématique",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration", "La matière et l'esprit"]
+      },
+      {
+        "titre": "Le bonheur, un concept indéterminé",
+        "notions": ["La morale", "Le devoir", "Le bonheur"]
+      },
+      {
+        "titre": "Le devoir de dire la vérité",
+        "notions": ["La vérité", "Le devoir", "La morale", "Autrui", "Le droit et la justice"]
+      },
+      {
+        "titre": "Le droit et la liberté",
+        "notions": ["Le droit et la justice", "La liberté", "La société", "L'Etat"]
+      },
+      {
+        "titre": "Le jugement de goût est désintéressé",
+        "notions": ["L'art", "Le désir", "La perception"]
+      },
+      {
+        "titre": "Le jugement de goût est esthétique",
+        "notions": ["L'art", "La perception"]
+      },
+      {
+        "titre": "Le jugement de la conscience morale",
+        "notions": ["Le sujet", "La conscience", "La morale", "Le devoir"]
+      },
+      {
+        "titre": "Le pouvoir de dire \"Je\"",
+        "notions": ["Le sujet", "La conscience", "Le langage"]
+      },
+      {
+        "titre": "Les maximes du sens commun",
+        "notions": ["La vérité", "Le langage"]
+      },
+      {
+        "titre": "Liberté de penser et liberté d'expression",
+        "notions": ["La raison et le réel", "La vérité", "Le langage", "La liberté"]
+      },
+      {
+        "titre": "Liberté et moralité",
+        "notions": ["La morale", "Le devoir", "La liberté"]
+      },
+      {
+        "titre": "Liberté et responsabilité",
+        "notions": ["Le sujet", "La conscience", "La liberté", "La morale"]
+      },
+      {
+        "titre": "Machine et organisme",
+        "notions": ["La raison et le réel", "La matière et l'esprit", "Le vivant"]
+      },
+      {
+        "titre": "Qu'est-ce que les Lumières ?",
+        "notions": ["La conscience", "La liberté", "Autrui", "La vérité"]
+      },
+      {
+        "titre": "Que signifie \"faire son devoir\" ?",
+        "notions": ["La morale", "Le devoir"]
+      },
+      {
+        "titre": "Raison et bonheur",
+        "notions": ["La morale", "Le bonheur", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Kelsen (Hans)",
+    "slug": "kelsen-hans",
+    "themes": [
+      {
+        "titre": "Le positivisme juridique",
+        "notions": ["Le droit et la justice"]
+      }
+    ]
+  },
+  {
+    "auteur": "Kierkegaard",
+    "slug": "kierkegaard",
+    "themes": [
+      {
+        "titre": "Travail et oisiveté",
+        "notions": ["Le travail", "La morale", "Le bonheur", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Lavisse (Ernest)",
+    "slug": "lavisse-ernest",
+    "themes": [
+      {
+        "titre": "Pour une histoire morale et patriotique",
+        "notions": ["L'histoire", "La politique", "La société"]
+      }
+    ]
+  },
+  {
+    "auteur": "Lavoisier",
+    "slug": "lavoisier",
+    "themes": [
+      {
+        "titre": "La respiration comme phéauteurène physico-chimique",
+        "notions": ["La matière et l'esprit", "Théorie et expérience", "Le vivant"]
+      }
+    ]
+  },
+  {
+    "auteur": "Le Monde",
+    "slug": "le-monde",
+    "themes": [
+      {
+        "titre": "Petits arrangements entre croyants",
+        "notions": ["La religion", "La société"]
+      },
+      {
+        "titre": "Vivre avec 400 mots",
+        "notions": ["La culture", "Le langage", "La société et les échanges"]
+      }
+    ]
+  },
+  {
+    "auteur": "Leroi-Gourhan",
+    "slug": "leroi-gourhan",
+    "themes": [
+      {
+        "titre": "Le technicien, un démiurge asservi",
+        "notions": ["La culture", "Le travail et la technique"]
+      }
+    ]
+  },
+  {
+    "auteur": "Lévi-Strauss",
+    "slug": "levi-strauss",
+    "themes": [
+      {
+        "titre": "L'ethnocentrisme",
+        "notions": ["Autrui", "La culture", "Les échanges"]
+      },
+      {
+        "titre": "La prohibition de l'inceste",
+        "notions": ["La culture", "La société et les échanges", "Le désir", "La morale"]
+      }
+    ]
+  },
+  {
+    "auteur": "Lévinas",
+    "slug": "levinas",
+    "themes": [
+      {
+        "titre": "Le visage",
+        "notions": ["La morale", "Le sujet", "Autrui", "Le devoir"]
+      }
+    ]
+  },
+  {
+    "auteur": "Locke (John)",
+    "slug": "locke-john",
+    "themes": [
+      {
+        "titre": "A-t-on le droit de résister ?",
+        "notions": ["La politique", "L'Etat", "La justice et le droit", "Le devoir", "La morale", "La liberté"]
+      },
+      {
+        "titre": "L'âme est comme une table rase",
+        "notions": ["La raison et le réel", "La vérité", "La perception"]
+      },
+      {
+        "titre": "La finalité du droit est la liberté",
+        "notions": ["Le droit et la justice", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Lucrèce",
+    "slug": "lucrece",
+    "themes": [
+      {
+        "titre": "Éloge d'Épicure",
+        "notions": ["La religion", "La raison et le réel", "L'existence et le temps"]
+      },
+      {
+        "titre": "L'âme même est matérielle",
+        "notions": ["La raison et le réel", "La matière et l'esprit"]
+      },
+      {
+        "titre": "Les dieux",
+        "notions": ["L'existence et le temps", "Le bonheur", "La religion"]
+      },
+      {
+        "titre": "Les enfers",
+        "notions": ["L'existence et le temps", "Le bonheur", "Le désir", "La religion"]
+      },
+      {
+        "titre": "Tout n'est que matière et vide",
+        "notions": ["La raison et le réel", "La matière et l'esprit", "La perception"]
+      }
+    ]
+  },
+  {
+    "auteur": "Machiavel",
+    "slug": "machiavel",
+    "themes": [
+      {
+        "titre": "La fin justifie les moyens",
+        "notions": ["La politique", "La morale", "L'Etat", "Le droit et la justice"]
+      },
+      {
+        "titre": "Un prince doit-il toujours tenir ses promesses ?",
+        "notions": ["La politique", "L'Etat", "La morale"]
+      }
+    ]
+  },
+  {
+    "auteur": "Malebranche (Nicolas)",
+    "slug": "malebranche-nicolas",
+    "themes": [
+      {
+        "titre": "Il y a douter et douter",
+        "notions": ["La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Malson (Lucien)",
+    "slug": "malson-lucien",
+    "themes": [
+      {
+        "titre": "Enfants sauvages et nature humaine",
+        "notions": ["Le sujet", "La culture", "Autrui"]
+      }
+    ]
+  },
+  {
+    "auteur": "Marrou (Henri-Irénée)",
+    "slug": "marrou-henri-irenee",
+    "themes": [
+      {
+        "titre": "L'histoire est la connaissance du passé humain",
+        "notions": ["L'histoire", "La raison et le réel", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Martin (Jean-Clément)",
+    "slug": "martin-jean-clement",
+    "themes": [
+      {
+        "titre": "Histoire et mythologie à l'école",
+        "notions": ["Histoire", "Société"]
+      }
+    ]
+  },
+  {
+    "auteur": "Marx",
+    "slug": "marx",
+    "themes": [
+      {
+        "titre": "L'argent transforme l'homme",
+        "notions": ["La société et les échanges", "La morale", "Autrui", "Le désir"]
+      },
+      {
+        "titre": "L'idéal du travail",
+        "notions": ["Le travail", "La conscience", "Le sujet", "La société", "Les échanges", "La liberté", "Le bonheur"]
+      },
+      {
+        "titre": "La religion est l'opium du peuple",
+        "notions": ["La religion", "La conscience", "La liberté"]
+      },
+      {
+        "titre": "Le travail, l'abeille et l'homme",
+        "notions": ["La culture", "Le travail et la technique", "Le sujet", "La liberté", "La matière et l'esprit"]
+      },
+      {
+        "titre": "Travail et aliénation",
+        "notions": ["Le travail", "La liberté", "La société et les échanges"]
+      }
+    ]
+  },
+  {
+    "auteur": "Méda (Dominique)",
+    "slug": "meda-dominique",
+    "themes": [
+      {
+        "titre": "Réduisons la place du travail et de l'écoauteurie dans nos sociétés",
+        "notions": ["Travail", "Bonheur", "Société", "Échanges"]
+      }
+    ]
+  },
+  {
+    "auteur": "Merleau-Ponty",
+    "slug": "merleau-ponty",
+    "themes": [
+      {
+        "titre": "L'artiste, le scientifique, le réel",
+        "notions": ["L'art", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Mill",
+    "slug": "mill",
+    "themes": [
+      {
+        "titre": "Devoir et vérité",
+        "notions": ["La vérité", "La morale", "Le devoir", "La société"]
+      },
+      {
+        "titre": "Le bonheur que nous pouvons espérer",
+        "notions": ["L'existence", "Le bonheur"]
+      },
+      {
+        "titre": "Nature et artifice",
+        "notions": ["La culture", "Le travail et la technique"]
+      },
+      {
+        "titre": "Qu'est-ce que l'utilitarisme ?",
+        "notions": ["La morale", "Le devoir", "Le bonheur"]
+      },
+      {
+        "titre": "Réponse aux critiques de l'hédonisme utilitariste",
+        "notions": ["La morale", "Le bonheur", "Le désir"]
+      }
+    ]
+  },
+  {
+    "auteur": "Montesquieu",
+    "slug": "montesquieu",
+    "themes": [
+      {
+        "titre": "Le doux commerce",
+        "notions": ["La politique", "La société", "Les échanges", "Le travail", "La justice", "La morale"]
+      }
+    ]
+  },
+  {
+    "auteur": "Nietzsche",
+    "slug": "nietzsche",
+    "themes": [
+      {
+        "titre": "A propos des questions métaphysiques",
+        "notions": ["L'existence et le temps", "La vérité", "La religion"]
+      },
+      {
+        "titre": "Bonheur et conscience du temps",
+        "notions": ["L'existence et le temps", "Le bonheur", "La conscience et l'inconscient"]
+      },
+      {
+        "titre": "Faut-il chercher à détruire les passions ?",
+        "notions": ["Le désir", "La religion"]
+      },
+      {
+        "titre": "L'art et la vie",
+        "notions": ["L'art", "L'existence"]
+      },
+      {
+        "titre": "L'éloge de la vertu",
+        "notions": ["La morale", "Le bonheur", "Le sujet"]
+      },
+      {
+        "titre": "La course effrénée au travail",
+        "notions": ["Le travail", "Le temps", "Les échanges"]
+      },
+      {
+        "titre": "Le travail est la meilleure des polices",
+        "notions": ["Le travail", "La liberté", "Le sujet", "La société et les échanges", "Le devoir"]
+      },
+      {
+        "titre": "Les méthodes scientifiques",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration"]
+      },
+      {
+        "titre": "Soupçons sur le libre-arbitre",
+        "notions": ["La liberté", "La morale", "Le devoir"]
+      },
+      {
+        "titre": "Vertu de l'oubli",
+        "notions": ["L'existence et le temps", "L'histoire", "La conscience et l'inconscient"]
+      }
+    ]
+  },
+  {
+    "auteur": "Pascal",
+    "slug": "pascal",
+    "themes": [
+      {
+        "titre": "Justice et force",
+        "notions": ["La justice et le droit"]
+      },
+      {
+        "titre": "L'homme est un roseau pensant",
+        "notions": ["Le sujet", "L'existence et le temps", "La conscience", "Le bonheur", "La matière et l'esprit"]
+      },
+      {
+        "titre": "La haine de la vérité",
+        "notions": ["La vérité", "Autrui", "Le bonheur", "La société"]
+      },
+      {
+        "titre": "Le cœur et la raison",
+        "notions": ["La démonstration", "La vérité", "La religion"]
+      },
+      {
+        "titre": "Le divertissement",
+        "notions": ["La vérité", "L'existence et le temps", "Le bonheur"]
+      },
+      {
+        "titre": "Nous négligeons le présent",
+        "notions": ["L'existence et le temps", "Le bonheur"]
+      },
+      {
+        "titre": "Qu'est-ce que le moi ?",
+        "notions": ["Le sujet", "La conscience", "La vérité"]
+      },
+      {
+        "titre": "Une démonstration parfaite est impossible",
+        "notions": ["La démonstration", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Planck (Max)",
+    "slug": "planck-max",
+    "themes": [
+      {
+        "titre": "Le physicien et le réel",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience"]
+      }
+    ]
+  },
+  {
+    "auteur": "Platon",
+    "slug": "platon",
+    "themes": [
+      {
+        "titre": "Besoins et société",
+        "notions": ["La politique", "La société et les échanges", "Autrui", "Le travail"]
+      },
+      {
+        "titre": "Éloge de l'intempérance par Calliclès",
+        "notions": ["Le désir", "La liberté", "Le bonheur", "La morale", "Autrui", "Le devoir", "Le droit et la justice"]
+      },
+      {
+        "titre": "L'allégorie de la caverne",
+        "notions": ["La raison et le réel", "La vérité", "L'interprétation", "La perception", "La matière et l'esprit", "La liberté"]
+      },
+      {
+        "titre": "Le corps, obstacle à la pensée",
+        "notions": ["La matière et l'esprit", "La vérité", "Le désir"]
+      },
+      {
+        "titre": "Le mythe de Prométhée",
+        "notions": ["La culture", "La technique"]
+      },
+      {
+        "titre": "Le tonneau des Danaïdes",
+        "notions": ["Le désir", "Le bonheur"]
+      },
+      {
+        "titre": "Réponse à Calliclès",
+        "notions": ["Le désir", "Le bonheur", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Poincaré (Henri)",
+    "slug": "poincare-henri",
+    "themes": [
+      {
+        "titre": "Les axiomes sont des conventions",
+        "notions": ["La raison et le réel", "La vérité", "La démonstration"]
+      }
+    ]
+  },
+  {
+    "auteur": "Popper",
+    "slug": "popper",
+    "themes": [
+      {
+        "titre": "Conjectures et réfutations",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience", "La matière et l'esprit"]
+      },
+      {
+        "titre": "Critique et objectivité",
+        "notions": ["La vérité", "Le langage"]
+      },
+      {
+        "titre": "La théorie freudienne n'est pas scientifique",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "Théorie et expérience", "La vérité", "L'interprétation"]
+      },
+      {
+        "titre": "Les théories comme filets",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience"]
+      }
+    ]
+  },
+  {
+    "auteur": "Potdevin (Gérard)",
+    "slug": "potdevin-gerard",
+    "themes": [
+      {
+        "titre": "Le relativisme",
+        "notions": ["La vérité", "La démonstration", "Le langage"]
+      }
+    ]
+  },
+  {
+    "auteur": "Prost (Antoine)",
+    "slug": "prost-antoine",
+    "themes": [
+      {
+        "titre": "Critique et interprétation des témoignages",
+        "notions": ["L'histoire", "La raison et le réel", "La vérité", "L'interprétation"]
+      },
+      {
+        "titre": "L'historien produit des faits à partir de traces",
+        "notions": ["L'histoire", "La raison et le réel", "Théorie et expérience", "La vérité"]
+      },
+      {
+        "titre": "L'importance des faits en histoire",
+        "notions": ["L'histoire", "La raison et le réel", "La vérité", "Théorie et expérience"]
+      },
+      {
+        "titre": "La méthode critique",
+        "notions": ["L'histoire", "La raison et le réel", "La vérité", "Théorie et expérience"]
+      }
+    ]
+  },
+  {
+    "auteur": "Proust (Marcel)",
+    "slug": "proust-marcel",
+    "themes": [
+      {
+        "titre": "L'art démultiplie le réel",
+        "notions": ["L'art", "La perception"]
+      }
+    ]
+  },
+  {
+    "auteur": "Rawls (John)",
+    "slug": "rawls-john",
+    "themes": [
+      {
+        "titre": "Les deux principes de la justice",
+        "notions": ["La justice et le droit", "La société"]
+      },
+      {
+        "titre": "Position originelle et voile d'ignorance",
+        "notions": ["La justice et le droit"]
+      }
+    ]
+  },
+  {
+    "auteur": "Ricoeur (Paul)",
+    "slug": "ricoeur-paul",
+    "themes": [
+      {
+        "titre": "Interprétation et pluralité des sens",
+        "notions": ["La raison et le réel", "La vérité", "L'interprétation", "L'art"]
+      },
+      {
+        "titre": "La construction des faits en histoire",
+        "notions": ["La culture", "L'histoire", "La vérité", "La raison et le réel"]
+      }
+    ]
+  },
+  {
+    "auteur": "Rosset (Clément)",
+    "slug": "rosset-clement",
+    "themes": [
+      {
+        "titre": "Critique de l'introspection",
+        "notions": ["Le sujet", "La conscience", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Rousseau",
+    "slug": "rousseau",
+    "themes": [
+      {
+        "titre": "Conscience ! Conscience !",
+        "notions": ["La conscience", "La morale", "Le devoir", "Autrui"]
+      },
+      {
+        "titre": "De l'état civil",
+        "notions": ["La liberté", "La société", "La justice et le droit", "L'Etat"]
+      },
+      {
+        "titre": "Défauts du régime démocratique",
+        "notions": ["La politique", "L'Etat", "La liberté"]
+      },
+      {
+        "titre": "L'amour de soi et la pitié",
+        "notions": ["La morale", "Le devoir", "Autrui"]
+      },
+      {
+        "titre": "La liberté différencie l'homme de l'animal",
+        "notions": ["Le sujet", "La morale", "La liberté"]
+      },
+      {
+        "titre": "La perfectibilité",
+        "notions": ["Le sujet", "La morale", "La liberté", "La technique", "Le bonheur"]
+      },
+      {
+        "titre": "La pitié",
+        "notions": ["La morale", "Le devoir", "Autrui", "La société"]
+      },
+      {
+        "titre": "Le droit du plus fort",
+        "notions": ["Le droit et la justice", "Le devoir", "La politique", "L'Etat"]
+      },
+      {
+        "titre": "Les passions",
+        "notions": ["Le désir", "Le sujet", "La liberté", "La morale"]
+      },
+      {
+        "titre": "Liberté et instinct",
+        "notions": ["La liberté", "Le sujet"]
+      },
+      {
+        "titre": "Malheur à qui n'a plus rien à désirer !",
+        "notions": ["L'existence et le temps", "Le désir", "Le bonheur"]
+      }
+    ]
+  },
+  {
+    "auteur": "Russell (Bertrand)",
+    "slug": "russell-bertrand",
+    "themes": [
+      {
+        "titre": "Credo religieux et vérité scientifique",
+        "notions": ["La raison et le réel", "La religion", "La vérité", "Théorie et expérience"]
+      },
+      {
+        "titre": "Mathématiques et vérité",
+        "notions": ["La raison et le réel", "La démonstration", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Sade",
+    "slug": "sade",
+    "themes": [
+      {
+        "titre": "Aux libertins",
+        "notions": ["Le sujet", "Le désir", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Sartre",
+    "slug": "sartre",
+    "themes": [
+      {
+        "titre": "Amour et possession",
+        "notions": ["Le sujet", "La conscience", "Autrui", "Le désir", "La liberté"]
+      },
+      {
+        "titre": "Critique de l'inconscient",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "La liberté"]
+      },
+      {
+        "titre": "Je suis responsable de tous les hommes",
+        "notions": ["Le sujet", "La liberté", "La morale"]
+      },
+      {
+        "titre": "L'homme est condamné à être libre",
+        "notions": ["Le sujet", "La conscience", "La liberté", "L'existence et le temps"]
+      },
+      {
+        "titre": "La honte et mon être pour-autrui",
+        "notions": ["Le sujet", "La conscience", "Autrui", "La liberté"]
+      },
+      {
+        "titre": "Le garçon de café",
+        "notions": ["Le sujet", "La conscience", "La liberté"]
+      },
+      {
+        "titre": "Les mots et les sentiments",
+        "notions": ["Le langage"]
+      },
+      {
+        "titre": "Que signifie que \"l'existence précède l'essence\" ?",
+        "notions": ["Le sujet", "La conscience", "La liberté"]
+      }
+    ]
+  },
+  {
+    "auteur": "Schopenhauer",
+    "slug": "schopenhauer",
+    "themes": [
+      {
+        "titre": "Désir et satisfaction",
+        "notions": ["L'existence et le temps", "Le bonheur", "Le désir"]
+      },
+      {
+        "titre": "La souffrance est l'essence de la vie",
+        "notions": ["L'existence et le temps", "Le désir", "Le bonheur", "La vérité"]
+      },
+      {
+        "titre": "Les hommes sont comme des porcs-épics !",
+        "notions": ["Autrui", "La société et les échanges"]
+      }
+    ]
+  },
+  {
+    "auteur": "Seignobos (Charles)",
+    "slug": "seignobos-charles",
+    "themes": [
+      {
+        "titre": "L'histoire est une connaissance par traces",
+        "notions": ["L'histoire", "La raison et le réel", "La vérité", "Théorie et expérience"]
+      },
+      {
+        "titre": "Qu'est-ce qu'un fait historique ?",
+        "notions": ["L'histoire", "La raison et le réel", "La vérité", "Théorie et expérience", "L'interprétation"]
+      }
+    ]
+  },
+  {
+    "auteur": "Sibony (Daniel)",
+    "slug": "sibony-daniel",
+    "themes": [
+      {
+        "titre": "Racisme et identité",
+        "notions": ["La culture", "Autrui", "Le sujet"]
+      }
+    ]
+  },
+  {
+    "auteur": "Smith (Adam)",
+    "slug": "smith-adam",
+    "themes": [
+      {
+        "titre": "On échange par intérêt",
+        "notions": ["La société et les échanges", "Autrui", "La morale"]
+      }
+    ]
+  },
+  {
+    "auteur": "Spinoza",
+    "slug": "spinoza",
+    "themes": [
+      {
+        "titre": "Comment aborder la réflexion sur les désirs ?",
+        "notions": ["Le sujet", "La conscience", "Le désir", "La liberté"]
+      },
+      {
+        "titre": "Comment lire la Bible ?",
+        "notions": ["La religion", "La vérité", "L'interprétation"]
+      },
+      {
+        "titre": "L'illusion de la liberté",
+        "notions": ["La conscience", "La liberté", "Le désir"]
+      },
+      {
+        "titre": "L'illusion de la liberté (2)",
+        "notions": ["Le sujet", "La conscience et l'inconscient", "Le désir", "La liberté", "La morale"]
+      },
+      {
+        "titre": "La superstition",
+        "notions": ["La religion", "L'interprétation", "Le désir"]
+      },
+      {
+        "titre": "Les philosophes, inaptes à gouverner",
+        "notions": ["La politique", "L'Etat", "La morale"]
+      },
+      {
+        "titre": "Obéissance et liberté",
+        "notions": ["La morale", "La liberté", "Le devoir", "L'Etat", "Le droit et la justice", "Le désir", "Le sujet"]
+      }
+    ]
+  },
+  {
+    "auteur": "Strengers (ISabelle)",
+    "slug": "strengers-isabelle",
+    "themes": [
+      {
+        "titre": "Les controverses scientifiques",
+        "notions": ["La raison et le réel", "La vérité", "Théorie et expérience", "Le langage", "La société et les échanges"]
+      }
+    ]
+  },
+  {      
+    "auteur": "Thomas d'Aquin",
+    "slug": "thomas-daquin",
+    "themes": [
+      {
+        "titre": "L'esprit et la lettre de la loi",
+        "notions": ["La justice et le droit", "La morale", "Le devoir", "L'interprétation"]
+      }
+    ]
+  },
+  {      
+    "auteur": "Tocqueville",
+    "slug": "tocqueville",
+    "themes": [
+      {
+        "titre": "Un nouveau despotisme",
+        "notions": ["La politique", "L'Etat", "La société", "La liberté", "Le bonheur"]
+      }
+    ]
+  },
+  {
+    "auteur": "Todorov (Tzvetan)",
+    "slug": "todotov",
+    "themes": [
+      { "titre": "L'exotisme",
+        "notions": ["La culture", "Autrui", "Les échanges"]
+      }
+    ]
+  },
+  {
+    "auteur": "Veyne (Paul)",
+    "slug": "veyne-paul",
+    "themes": [
+      { "titre": "Histoire savante et mémoire collective",
+        "notions": ["L'histoire", "La politique", "La société", "La vérité"]
+      }
+    ]
+  },
+  {
+    "auteur": "Weber (Max)",
+    "slug": "weber-max",
+    "themes": [
+      { "titre": "Etat et violence",
+        "notions": ["La politique", "L'Etat", "La société"]
+      },
+      {          "titre": "La valeur religieuse du travail",
+        "notions": ["La culture", "Le travail et la technique", "La religion", "La morale", "Le devoir"]
+      }
+    ]
+  }
+]
