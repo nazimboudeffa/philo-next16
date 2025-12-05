@@ -4,7 +4,7 @@ import Link from "next/link";
 import React from "react";
 
 const navLinks = [
-  { href: "/", label: "Notions" },
+  { href: "/notions", label: "Notions" },
   { href: "/textes", label: "Textes" },
   { href: "/auteurs", label: "Auteurs" },
   { href: "/references", label: "Références" },
@@ -17,7 +17,9 @@ function Navbar() {
   return (
     <nav className="w-full sticky top-0 z-50 backdrop-blur bg-zinc-200 dark:bg-zinc-900 shadow-sm mb-8">
       <div className="max-w-4xl mx-auto flex items-center justify-between px-4 py-4">
-        <div className="text-xl font-bold text-blue-700 dark:text-blue-300">Philo</div>
+        <Link href="/" className="text-xl font-bold text-blue-700 dark:text-blue-300 hover:underline focus:outline-none">
+          Philo
+        </Link>
         <button
           className="md:hidden flex flex-col justify-center items-center w-10 h-10 focus:outline-none"
           aria-label="Ouvrir le menu"

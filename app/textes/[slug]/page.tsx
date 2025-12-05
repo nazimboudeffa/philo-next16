@@ -22,12 +22,7 @@ export default function Page() {
   return (
     <main className="min-h-screen bg-zinc-50 dark:bg-black p-8">
       <h2 className="text-2xl font-semibold mb-4 text-zinc-800 dark:text-zinc-200">
-      <Link
-        href={`/auteurs/${slugify(auteurData.auteur)}`}
-        className="text-3xl font-bold mb-6 text-black dark:text-zinc-50 hover:underline"
-      >
         {auteurData.auteur}
-      </Link>
       </h2>
       <ul className="space-y-4">
         {auteurData.themes.map((theme: { titre: string; notions: string[] }, idx: number) => (
