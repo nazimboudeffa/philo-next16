@@ -55,16 +55,6 @@ export default function ReferencesPage() {
                 </div>
               </details>
             )}
-            {ref.url && (
-              <a
-                href={ref.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-600 underline block mt-2"
-              >
-                Consulter en ligne
-              </a>
-            )}
           </li>
         ))}
       </ul>
