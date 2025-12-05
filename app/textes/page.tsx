@@ -27,7 +27,11 @@ export default function Home() {
       <ul className="space-y-8">
         {texts.map((text: Text) => (
           <li key={text.auteur} className="border-b pb-6">
-            <h2 className="text-2xl font-semibold text-blue-700 dark:text-blue-300 mb-2">{text.auteur}</h2>
+            <h2 className="text-2xl font-semibold text-blue-700 dark:text-blue-300 mb-2">
+              <Link href={`/textes/${slugify(text.auteur)}`} className="hover:underline">
+                {text.auteur}
+              </Link>
+            </h2>
             <ul className="ml-4 list-disc">
               {text.themes.map((theme: Theme, idx: number) => (
                 <li key={theme.titre + idx} className="mb-2">

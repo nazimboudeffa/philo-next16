@@ -1,5 +1,5 @@
 "use client";
-import { useParams, notFound } from "next/navigation";
+import { useParams } from "next/navigation";
 import textes from "../../JSON/textes.json";
 import notions from "../../JSON/notions.json";
 import Link from "next/link";
@@ -16,11 +16,19 @@ function slugify(str: string) {
 export default function Page() {
   const params = useParams();
   const auteurData = textes.find(t => t.slug === params.slug);
-  if (!auteurData) return notFound();
+  if (!auteurData) {
+    return <main className="p-8">Auteur introuvable.</main>;
+  }
   return (
     <main className="min-h-screen bg-zinc-50 dark:bg-black p-8">
-      <h1 className="text-3xl font-bold mb-6 text-black dark:text-zinc-50">{auteurData.auteur}</h1>
-      <h2 className="text-xl font-semibold mb-4">Textes associés :</h2>
+      <h2 className="text-2xl font-semibold mb-4 text-zinc-800 dark:text-zinc-200">
+      <Link
+        href={`/auteurs/${slugify(auteurData.auteur)}`}
+        className="text-3xl font-bold mb-6 text-black dark:text-zinc-50 hover:underline"
+      >
+        {auteurData.auteur}
+      </Link>
+      </h2>
       <ul className="space-y-4">
         {auteurData.themes.map((theme: { titre: string; notions: string[] }, idx: number) => (
           <li key={theme.titre + idx} className="border-b pb-2">

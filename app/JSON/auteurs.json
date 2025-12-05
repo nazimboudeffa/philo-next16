@@ -1,6 +1,7 @@
 [
   {
     "auteur": "Socrate",
+    "slug": "socrate",
     "dates": "-470 / -399",
     "pays": "Grèce",
     "courants": ["Maïeutique", "Dialectique"],
@@ -8,6 +9,7 @@
   },
   {
     "auteur": "Platon",
+    "slug": "platon",
     "dates": "-427 / -347",
     "pays": "Grèce",
     "courants": ["Idéalisme", "Rationalisme"],
@@ -15,6 +17,7 @@
   },
   {
     "auteur": "Aristote",
+    "slug": "aristote",
     "dates": "-384 / -322",
     "pays": "Grèce",
     "courants": ["Réalisme", "Empirisme", "Eudémonisme"],
@@ -22,6 +25,7 @@
   },
   {
     "auteur": "Épicure",
+    "slug": "epicure",
     "dates": "-341 / -270",
     "pays": "Grèce",
     "courants": ["Épicurisme", "Hédonisme", "Matérialisme"],
@@ -29,6 +33,7 @@
   },
   {
     "auteur": "Lucrèce",
+    "slug": "lucrece",
     "dates": "-98 / -54",
     "pays": "Empire romain",
     "courants": ["Épicurisme", "Matérialisme"],
@@ -36,6 +41,7 @@
   },
   {
     "auteur": "Sénèque",
+    "slug": "seneque",
     "dates": "-4 / 65",
     "pays": "Empire romain",
     "courants": ["Stoïcisme"],
@@ -43,6 +49,7 @@
   },
   {
     "auteur": "Épictète",
+    "slug": "epictete",
     "dates": "50 / 125",
     "pays": "Empire romain",
     "courants": ["Stoïcisme"],
@@ -50,6 +57,7 @@
   },
   {
     "auteur": "Marc Aurèle",
+    "slug": "marc-aurele",
     "dates": "121 / 180",
     "pays": "Empire romain",
     "courants": ["Stoïcisme"],
@@ -57,6 +65,7 @@
   },
   {
     "auteur": "Saint Augustin",
+    "slug": "saint-augustin",
     "dates": "354 / 430",
     "pays": "Algérie (Empire romain)",
     "courants": ["Christianisme"],
@@ -64,6 +73,7 @@
   },
   {
     "auteur": "Averroès",
+    "slug": "averroes",
     "dates": "1126 / 1198",
     "pays": "Espagne (monde arabe)",
     "courants": ["Aristotélisme"],
@@ -71,6 +81,7 @@
   },
   {
     "auteur": "Thomas d'Aquin",
+    "slug": "thomas-daquin",
     "dates": "1225 / 1274",
     "pays": "Italie",
     "courants": ["Aristotélisme", "Thomisme", "Scolastique"],
@@ -78,6 +89,7 @@
   },
   {
     "auteur": "Machiavel",
+    "slug": "machiavel",
     "dates": "1469 / 1527",
     "pays": "Italie",
     "courants": [],
@@ -85,6 +97,7 @@
   },
   {
     "auteur": "Montaigne",
+    "slug": "montaigne",
     "dates": "1533 / 1592",
     "pays": "France",
     "courants": ["Scepticisme"],
@@ -92,6 +105,7 @@
   },
   {
     "auteur": "Francis Bacon",
+    "slug": "francis-bacon",
     "dates": "1561 / 1626",
     "pays": "Angleterre",
     "courants": ["Empirisme"],
@@ -99,6 +113,7 @@
   },
   {
     "auteur": "Thomas Hobbes",
+    "slug": "thomas-hobbes",
     "dates": "1588 / 1679",
     "pays": "Angleterre",
     "courants": ["Matérialisme", "Empirisme", "Absolutisme"],
@@ -106,6 +121,7 @@
   },
   {
     "auteur": "René Descartes",
+    "slug": "rene-descartes",
     "dates": "1596 / 1650",
     "pays": "France",
     "courants": ["Idéalisme", "Rationalisme"],
@@ -113,6 +129,7 @@
   },
   {
     "auteur": "Blaise Pascal",
+    "slug": "blaise-pascal",
     "dates": "1623 / 1662",
     "pays": "France",
     "courants": ["Jansénisme"],
@@ -120,6 +137,7 @@
   },
   {
     "auteur": "Baruch Spinoza",
+    "slug": "baruch-spinoza",
     "dates": "1632 / 1677",
     "pays": "Hollande",
     "courants": ["Rationalisme", "Eudémonisme"],
@@ -127,6 +145,7 @@
   },
   {
     "auteur": "John Locke",
+    "slug": "john-locke",
     "dates": "1632 / 1704",
     "pays": "Angleterre",
     "courants": ["Empirisme", "Libéralisme"],
@@ -134,6 +153,7 @@
   },
   {
     "auteur": "Gottfried Wilhelm Leibniz",
+    "slug": "gottfried-wilhelm-leibniz",
     "dates": "1646 / 1716",
     "pays": "Allemagne",
     "courants": ["Idéalisme", "Rationalisme"],
@@ -141,6 +161,7 @@
   },
   {
     "auteur": "George Berkeley",
+    "slug": "george-berkeley",
     "dates": "1685 / 1753",
     "pays": "Irlande",
     "courants": ["Immatérialisme"],
@@ -148,6 +169,7 @@
   },
   {
     "auteur": "Montesquieu",
+    "slug": "montesquieu",
     "dates": "1689 / 1755",
     "pays": "France",
     "courants": ["Libéralisme"],
@@ -155,6 +177,7 @@
   },
   {
     "auteur": "Voltaire",
+    "slug": "voltaire",
     "dates": "1694 / 1778",
     "pays": "France",
     "courants": ["Libéralisme"],
@@ -162,6 +185,7 @@
   },
   {
     "auteur": "David Hume",
+    "slug": "david-hume",
     "dates": "1711 / 1776",
     "pays": "Écosse",
     "courants": ["Empirisme", "Scepticisme"],
@@ -169,6 +193,7 @@
   },
   {
     "auteur": "Jean-Jacques Rousseau",
+    "slug": "jean-jacques-rousseau",
     "dates": "1712 / 1778",
     "pays": "Suisse – France",
     "courants": [],
@@ -176,6 +201,7 @@
   },
   {
     "auteur": "Denis Diderot",
+    "slug": "denis-diderot",
     "dates": "1713 / 1784",
     "pays": "France",
     "courants": ["Matérialisme"],
@@ -183,6 +209,7 @@
   },
   {
     "auteur": "Emmanuel Kant",
+    "slug": "emmanuel-kant",
     "dates": "1724 / 1804",
     "pays": "Allemagne",
     "courants": ["Idéalisme transcendantal", "Criticisme"],
@@ -190,6 +217,7 @@
   },
   {
     "auteur": "Georg Wilhelm Friedrich Hegel",
+    "slug": "georg-wilhelm-friedrich-hegel",
     "dates": "1770 / 1831",
     "pays": "Allemagne",
     "courants": ["Idéalisme"],
@@ -197,6 +225,7 @@
   },
   {
     "auteur": "Arthur Schopenhauer",
+    "slug": "arthur-schopenhauer",
     "dates": "1788 / 1860",
     "pays": "Allemagne",
     "courants": ["Kantisme", "Pessimisme", "Idéalisme"],
@@ -204,6 +233,7 @@
   },
   {
     "auteur": "Alexis de Tocqueville",
+    "slug": "alexis-de-tocqueville",
     "dates": "1805 / 1859",
     "pays": "France",
     "courants": ["Libéralisme"],
@@ -211,6 +241,7 @@
   },
   {
     "auteur": "John Stuart Mill",
+    "slug": "john-stuart-mill",
     "dates": "1806 / 1873",
     "pays": "Angleterre",
     "courants": ["Utilitarisme", "Libéralisme", "Empirisme"],
@@ -218,6 +249,7 @@
   },
   {
     "auteur": "Søren Kierkegaard",
+    "slug": "soren-kierkegaard",
     "dates": "1813 / 1855",
     "pays": "Danemark",
     "courants": ["Existentialisme chrétien"],
@@ -225,6 +257,7 @@
   },
   {
     "auteur": "Karl Marx",
+    "slug": "karl-marx",
     "dates": "1818 / 1883",
     "pays": "Allemagne",
     "courants": ["Matérialisme historique", "Communisme"],
@@ -232,6 +265,7 @@
   },
   {
     "auteur": "William James",
+    "slug": "william-james",
     "dates": "1842 / 1910",
     "pays": "États-Unis",
     "courants": ["Empirisme", "Pragmatisme"],
@@ -239,6 +273,7 @@
   },
   {
     "auteur": "Friedrich Nietzsche",
+    "slug": "friedrich-nietzsche",
     "dates": "1844 / 1900",
     "pays": "Allemagne",
     "courants": [],
@@ -246,6 +281,7 @@
   },
   {
     "auteur": "Sigmund Freud",
+    "slug": "sigmund-freud",
     "dates": "1856 / 1939",
     "pays": "Autriche",
     "courants": ["Psychanalyse"],
@@ -253,6 +289,7 @@
   },
   {
     "auteur": "Émile Durkheim",
+    "slug": "emile-durkheim",
     "dates": "1858 / 1917",
     "pays": "France",
     "courants": ["Sociologie"],
@@ -260,6 +297,7 @@
   },
   {
     "auteur": "Edmund Husserl",
+    "slug": "edmund-husserl",
     "dates": "1859 / 1938",
     "pays": "Allemagne",
     "courants": ["Phénoménologie", "Idéalisme"],
@@ -267,6 +305,7 @@
   },
   {
     "auteur": "Henri Bergson",
+    "slug": "henri-bergson",
     "dates": "1859 / 1941",
     "pays": "France",
     "courants": ["Intuitionnisme"],
@@ -274,6 +313,7 @@
   },
   {
     "auteur": "Alain",
+    "slug": "alain",
     "dates": "1868 / 1951",
     "pays": "France",
     "courants": ["Rationalisme", "Cartésianisme"],
@@ -281,6 +321,7 @@
   },
   {
     "auteur": "Bertrand Russell",
+    "slug": "bertrand-russell",
     "dates": "1872 / 1970",
     "pays": "Pays de Galles",
     "courants": ["Philosophie analytique", "Positivisme"],
@@ -288,6 +329,7 @@
   },
   {
     "auteur": "Gaston Bachelard",
+    "slug": "gaston-bachelard",
     "dates": "1884 / 1962",
     "pays": "France",
     "courants": ["Rationalisme"],
@@ -295,6 +337,7 @@
   },
   {
     "auteur": "Martin Heidegger",
+    "slug": "martin-heidegger",
     "dates": "1889 / 1976",
     "pays": "Allemagne",
     "courants": ["Phénoménologie", "Existentialisme"],
@@ -302,6 +345,7 @@
   },
   {
     "auteur": "Karl Popper",
+    "slug": "karl-popper",
     "dates": "1902 / 1994",
     "pays": "Angleterre",
     "courants": ["Philosophie analytique", "Libéralisme"],
@@ -309,6 +353,7 @@
   },
   {
     "auteur": "Jean-Paul Sartre",
+    "slug": "jean-paul-sartre",
     "dates": "1905 / 1980",
     "pays": "France",
     "courants": ["Phénoménologie", "Existentialisme"],
@@ -316,6 +361,7 @@
   },
   {
     "auteur": "Hannah Arendt",
+    "slug": "hannah-arendt",
     "dates": "1906 / 1975",
     "pays": "Allemagne puis États-Unis",
     "courants": ["Phénoménologie"],
@@ -323,6 +369,7 @@
   },
   {
     "auteur": "Emmanuel Lévinas",
+    "slug": "emmanuel-levinas",
     "dates": "1906 / 1995",
     "pays": "France",
     "courants": ["Phénoménologie"],

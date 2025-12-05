@@ -1,3 +1,5 @@
+"use client";
+import { useParams } from "next/navigation";
 import auteurs from "../../JSON/auteurs.json";
 
 function slugify(str: string) {
@@ -9,14 +11,17 @@ function slugify(str: string) {
     .replaceAll(/(^-|-$)+/g, "");
 }
 
-export default function AuteurPage({ params }: Readonly<{ params: { slug: string } }>) {
+export default function AuteurPage() {
+  const params = useParams();
   const auteur = auteurs.find(a => slugify(a.auteur) === params.slug);
   if (!auteur) {
     return <main className="p-8">Auteur introuvable.</main>;
   }
   return (
     <main className="min-h-screen bg-zinc-50 dark:bg-black p-8">
-      <h1 className="text-3xl font-bold mb-6 text-black dark:text-zinc-50">{auteur.auteur}</h1>
+      <h1 className="text-3xl font-bold mb-6 text-black dark:text-zinc-50">
+        {auteur.auteur}
+      </h1>
       <ul className="text-lg text-zinc-800 dark:text-zinc-200 mb-6">
         <li><b>Dates :</b> {auteur.dates}</li>
         <li><b>Pays :</b> {auteur.pays}</li>

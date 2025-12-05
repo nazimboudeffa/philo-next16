@@ -1,5 +1,5 @@
 "use client";
-import { useParams, notFound } from "next/navigation";
+import { useParams } from "next/navigation";
 import notions from "../../JSON/notions.json";
 import textes from "../../JSON/textes.json";
 import Link from "next/link";
@@ -11,7 +11,9 @@ function escapeRegExp(string: string) {
 export default function Page() {
   const params = useParams();
   const notionData = notions.find(t => t.slug === params.slug);
-  if (!notionData) return notFound();
+    if (!notionData) {
+    return <main className="p-8">Notion introuvable.</main>;
+  }
 
   function getLinkedComponent(match: string, offset: number, allLabels: { label: string; slug: string; type: string }[]) {
     const found = allLabels.find(l => l.label.toLowerCase() === match.toLowerCase());
