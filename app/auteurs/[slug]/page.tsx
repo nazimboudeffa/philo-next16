@@ -29,7 +29,7 @@ export default function AuteurPage() {
         <li><b>Courants :</b> {auteur.courants && Array.isArray(auteur.courants) ? (
           <span className="flex flex-wrap gap-2">
             {auteur.courants.map((c: string) => (
-              <span key={c} className="inline-block bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 px-2 py-1 rounded text-xs font-semibold">{c}</span>
+              <span key={c} className="inline-block bg-purple-100 dark:bg-purple-900 text-purple-800 dark:text-purple-200 px-2 py-1 rounded text-xs font-semibold">{c}</span>
             ))}
           </span>
         ) : auteur.courants}
