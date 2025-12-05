@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Ma Philosophie",
-  description: "La philosophie accessible, vivante et inspirante pour tous",
+  description: "Rendre la philosophie accessible, vivante et inspirante pour tous",
 };
 
 export default function RootLayout({
