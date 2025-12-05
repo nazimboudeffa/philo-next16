@@ -1,6 +1,7 @@
 
 import Link from "next/link";
 import texts from "../JSON/textes.json";
+import notions from "../JSON/notions.json";
 
 interface Theme {
   titre: string;
@@ -21,6 +22,29 @@ function slugify(str: string) {
     .replaceAll(/(^-|-$)+/g, "");
 }
 
+function renderNotions(notionList: string[]) {
+  return (
+    <span className="ml-2 flex flex-wrap gap-2">
+      {notionList.map((notion) => {
+        // Slugify notion for URL
+        const slug = slugify(notion);
+        const notionObj = notions.find(n => slugify(n.notion) === slug);
+        return notionObj ? (
+          <Link
+            key={slug}
+            href={`/notions/${slug}`}
+            className="inline-block bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 px-2 py-1 rounded text-xs font-semibold hover:underline"
+          >
+            {notion}
+          </Link>
+        ) : (
+          <span key={notion} className="inline-block bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 px-2 py-1 rounded text-xs font-semibold">{notion}</span>
+        );
+      })}
+    </span>
+  );
+}
+
 export default function Home() {
   return (
     <main className="min-h-screen bg-zinc-50 dark:bg-black p-8">
@@ -36,23 +60,7 @@ export default function Home() {
               {text.themes.map((theme: Theme, idx: number) => (
                 <li key={theme.titre + idx} className="mb-2">
                   <span className="font-bold">{theme.titre}</span>
-                  {theme.notions && (
-                    <span className="ml-2 flex flex-wrap gap-2">
-                      {theme.notions.map((notion) => {
-                        // Slugify notion for URL
-                        const slug = slugify(notion);
-                        return (
-                          <Link
-                            key={notion}
-                            href={`/notions/${slug}`}
-                            className="inline-block bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 px-2 py-1 rounded text-xs font-semibold hover:underline hover:bg-blue-200 dark:hover:bg-blue-800 transition-colors"
-                          >
-                            {notion}
-                          </Link>
-                        );
-                      })}
-                    </span>
-                  )}
+                  {theme.notions && renderNotions(theme.notions)}
                 </li>
               ))}
             </ul>
