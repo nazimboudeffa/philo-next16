@@ -13,7 +13,6 @@ function slugify(str: string) {
 export default function AuteursPage() {
   return (
     <main className="min-h-screen bg-zinc-50 dark:bg-black p-8">
-      <h1 className="text-3xl font-bold mb-8 text-black dark:text-zinc-50">Tous les auteurs</h1>
       <ul className="space-y-6">
         {auteurs.map(a => (
           <li key={a.auteur} className="border-b pb-4">

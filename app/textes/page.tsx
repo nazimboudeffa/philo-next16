@@ -24,7 +24,6 @@ function slugify(str: string) {
 export default function Home() {
   return (
     <main className="min-h-screen bg-zinc-50 dark:bg-black p-8">
-      <h1 className="text-3xl font-bold mb-6 text-black dark:text-zinc-50">Textes philosophiques</h1>
       <ul className="space-y-8">
         {texts.map((text: Text) => (
           <li key={text.auteur} className="border-b pb-6">

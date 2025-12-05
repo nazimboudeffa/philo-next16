@@ -1,6 +1,17 @@
 "use client";
 import { useParams, notFound } from "next/navigation";
 import textes from "../../JSON/textes.json";
+import notions from "../../JSON/notions.json";
+import Link from "next/link";
+
+function slugify(str: string) {
+  return str
+    .toLowerCase()
+    .normalize("NFD")
+    .replaceAll(/\p{Diacritic}/gu, "")
+    .replaceAll(/[^a-z0-9]+/g, "-")
+    .replaceAll(/(^-|-$)+/g, "");
+}
 
 export default function Page() {
   const params = useParams();
@@ -16,9 +27,21 @@ export default function Page() {
             <span className="font-bold text-lg">{theme.titre}</span>
             {theme.notions && theme.notions.length > 0 && (
               <span className="ml-4 flex flex-wrap gap-2">
-                {theme.notions.map((notion) => (
-                  <span key={notion} className="inline-block bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 px-2 py-1 rounded text-xs font-semibold">{notion}</span>
-                ))}
+                {theme.notions.map((notion) => {
+                  const slug = slugify(notion);
+                  const notionObj = notions.find(n => slugify(n.notion) === slug);
+                  return notionObj ? (
+                    <Link
+                      key={slug}
+                      href={`/notions/${slug}`}
+                      className="inline-block bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 px-2 py-1 rounded text-xs font-semibold hover:underline"
+                    >
+                      {notion}
+                    </Link>
+                  ) : (
+                    <span key={notion} className="inline-block bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-200 px-2 py-1 rounded text-xs font-semibold">{notion}</span>
+                  );
+                })}
               </span>
             )}
           </li>
