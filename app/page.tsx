@@ -28,8 +28,8 @@ export default function HomePage() {
 					<p className="text-zinc-700 dark:text-zinc-200">Parcourez les biographies et idées des grands penseurs qui ont marqué l’histoire.</p>
 				</div>
 				<div className="bg-white dark:bg-zinc-900 rounded-lg shadow p-6 flex flex-col items-center">
-					<h2 className="text-xl font-bold text-blue-700 dark:text-blue-300 mb-2">Citations & Références</h2>
-					<p className="text-zinc-700 dark:text-zinc-200">Laissez-vous inspirer par des citations et trouvez des références pour approfondir vos réflexions.</p>
+					<h2 className="text-xl font-bold text-blue-700 dark:text-blue-300 mb-2">Références & Citations</h2>
+					<p className="text-zinc-700 dark:text-zinc-200">Trouvez des références pour approfondir vos réflexions et laissez-vous inspirer par des citations.</p>
 				</div>
 			</section>
 
