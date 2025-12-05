@@ -5,7 +5,7 @@ import citations from '../JSON/citations.json';
 
 const CitationsPage = () => {
   return (
-    <main className="container mx-auto px-4 py-8">
+    <main className="min-h-screen bg-zinc-50 dark:bg-black p-8">
       <ul className="space-y-6">
         {citations.map((citation, idx) => (
           <li key={citation.auteur + idx} className="border-b pb-4">
