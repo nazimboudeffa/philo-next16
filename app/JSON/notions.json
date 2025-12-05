@@ -190,25 +190,6 @@
     ]
   },
   {
-    "slug": "le-travail",
-    "notion": "Le travail et la technique",
-    "serie_L": true,
-    "serie_ES": true,
-    "serie_S": true,
-    "cours": [
-        "Ce cours explore la notion de travail et de technique, en tant qu'activités humaines visant à transformer la nature et à produire des biens et des services. Il examine les différentes dimensions du travail, les relations entre travail et technique, ainsi que les implications philosophiques et éthiques de ces notions.",
-        "Le travail est une activité humaine qui consiste à utiliser des moyens techniques pour produire des biens ou des services (Marx). Il est à la fois une nécessité économique et une source d'accomplissement personnel.",
-        "La technique désigne l'ensemble des savoir-faire et des outils utilisés pour réaliser le travail. Elle évolue avec les progrès scientifiques et technologiques, modifiant ainsi les conditions de travail (Ellul).",
-        "Le rapport entre travail et technique soulève des questions philosophiques : la technique libère-t-elle l'homme ou le soumet-elle à de nouvelles formes d'aliénation ? (Heidegger).",
-        "Le travail soulève également des questions éthiques, notamment en ce qui concerne les conditions de travail, la justice sociale et la dignité humaine (Rawls).",
-        "La sociologie du travail étudie les dynamiques sociales liées au travail, tandis que la philosophie de la technique analyse les implications de l'usage des technologies dans la société.",
-        "Comment le travail influence-t-il notre identité et notre place dans la société ?",
-        "Quelle est la relation entre technique et progrès humain ?",
-        "La technique peut-elle être neutre ou est-elle toujours porteuse de valeurs ?",
-        "Comment concilier efficacité technique et justice sociale dans le monde du travail ?"
-    ]
-  },
-  {
     "slug": "la-religion",
     "notion": "La religion",
     "serie_L": true,
@@ -381,25 +362,6 @@
   },
   {
     "slug": "la-justice-et-le-droit",
-    "notion": "La justice et le droit",
-    "serie_L": true,
-    "serie_ES": true,
-    "serie_S": true,
-    "cours": [
-        "Ce cours explore la notion de justice et de droit, en tant que fondements de l'organisation sociale et politique. Il examine les différentes conceptions de la justice, les principes du droit, ainsi que les implications philosophiques et éthiques de ces notions.",
-        "La justice est un principe moral qui vise à assurer l'équité, la reconnaissance des droits et la répartition des ressources au sein d'une société (Platon, Aristote). Elle peut être distributive, corrective ou procédurale.",
-        "Le droit est un ensemble de règles et de normes qui régissent les relations entre les individus et les institutions dans une société (Hobbes). Il vise à garantir la sécurité, l'ordre et la justice sociale.",
-        "Différentes conceptions de la justice existent : la justice comme équité (Rawls) cherche à garantir des conditions justes pour tous ; la justice utilitariste vise le plus grand bonheur pour le plus grand nombre (Bentham).",
-        "Le rapport entre justice et droit soulève des questions philosophiques : comment concilier les droits individuels avec le bien commun ? (Mill) ; comment assurer l'application équitable du droit ? (Dworkin).",
-        "La philosophie du droit analyse les fondements et les implications des systèmes juridiques, tandis que l'éthique examine les principes moraux sous-jacents à la justice.",
-        "Comment définir la justice et ses différentes formes ?",
-        "Quelle est la relation entre justice et droit dans une société ?",
-        "Comment concilier droits individuels et bien commun ?",
-        "Quels sont les défis pour assurer une application équitable du droit ?"
-    ]
-  },
-  {
-    "slug": "le-droit-et-la-justice",
     "notion": "La justice et le droit",
     "serie_L": true,
     "serie_ES": true,
